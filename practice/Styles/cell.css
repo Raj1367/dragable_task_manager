@@ -1,0 +1,12 @@
+.cell {
+    width: 150px;
+    height: 150px;
+    border-radius: 0%;
+    background-color: transparent;
+    border: 1px solid balck;
+    cursor: pointer;
+}
+
+.activated_cell{
+    background: green;
+}
